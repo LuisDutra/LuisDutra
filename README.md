@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Luis Dutra 👋
+
+- 🌱 I’m currently learning TDD and BDD design using C#/.Net
+
+<div align="center">
+  <a href="https://github.com/LuisDutra">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisDutra&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisDutra&layout=compact&langs_count=7&theme=midnight-purple"/>
 
 <!--
 **LuisDutra/LuisDutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
