@@ -1,6 +1,6 @@
 ### Hi there, I'm Luis Dutra 👋
 
-- 🌱 I’m currently learning TDD and DDD design using C#/.Net
+- 🌱
 
 <div align="center">
   <a href="https://github.com/LuisDutra">
